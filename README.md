@@ -1,7 +1,5 @@
 # Excercise-3-Generative-Images-using-Diffusion
 
-
-
 This was created through a combination of Dreamstudio.ai and Google Colab's Stable Diffusion. 
 
 The details behind each photo can be found in the md files of their respective folders. 
@@ -29,9 +27,8 @@ Project 3 - "Create a Cyberpunk-themed boxing arena and replace the 2 boxers wit
 
 ## Settings 
 Much of the same settings can be applied to either application. 
-![Alt text](Screenshot%20(122).png)
-![Alt text](Screenshot%20(126).png)
-
+![Alt text](Images/Testing/screenshots/Screenshot%20(122).png)
+![Alt text](Images/Testing/screenshots/Screenshot%20(126).png)
 
 ## Artistic Inspiration
 
@@ -40,6 +37,6 @@ The past week, I had been watching a few Tomb Raider interviews on YouTube since
 Much of the artwork done was heavily based around Ultra-Realism with a CyberPunk theme. 
 
 Other inspirations came from Hyperrealist artist Ron Mueck. Most notably his work "Chicken Man" 
-Chicken Man
+
 ![Alt text](Images/Testing/screenshots/chicken%20man.jpg)
 
